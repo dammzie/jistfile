@@ -1,0 +1,446 @@
+{
+    "name": "Pearson plc",
+    "children": [
+        { "name": "Edexcel Limited" },
+        { "name": "Education Development International Plc" },
+        { "name": "Pearson Books Limited" },
+        { "name": "Pearson Dollar Finance plc" },
+        {
+            "name": "Pearson Education Holdings Limited",
+            "children": [
+                { "name": "Faethm Ltd" },
+                { 
+                    "name": "Longman Group(Overseas Holdings)Limited", 
+                    "children": [
+                        { "name": "ATI Studios A.P.P.S. S.R.L."},
+                        {"name": "George (Shanghai) Commercial Information Consulting Co., Ltd"},
+                        {
+                            "name": "Longman Indochina Acquisition, L.L.C.",
+                            "children":[
+                                {"name": "Pearson Education Indochina Limited"}
+                            ]
+                        },
+                        {"name": "Longman Tanzania Limited"},
+                        {"name": "Pearson Central Europe Spółka z ograniczoną odpowiedzialnością"},
+                        {"name": "Pearson Educación de Colombia S.A.S."},
+                        {"name": "Pearson Educacion de Panama SA"},
+                        {"name": "Pearson Educación de Perú S.A."},
+                        {
+                            "name": "Pearson Education do Brasil Ltda",
+                            "children":[
+                                {"name": "Centro Cultural Americano Franquias e Comércio Ltda."},
+                                {"name": "Multi Treinamento e Editora Ltda"},
+                                {"name": "Prepona Sistemas de Testagem e Avaliação S.A."}
+                            ]
+                        },
+                        {"name": "Pearson Education Hellas SA"},
+                        {"name": "Pearson Education Publishing Limited"},
+                        {"name": "Pearson Education Resources Italia S.R.L."},
+                        {
+                            "name": "Pearson Education SA",
+                            "children":[
+                                {
+                                    "name": "Pearson Educacion de Chile Limitada",
+                                    "children":[
+                                        {"name": "Longmaned Ecuador S.A."},
+                                        {"name": "Pearson Desarrollo y Capacitación Profesional Chile Limitada"}
+                                    ]
+                                },
+                                {"name": "Pearson Education S.A."}
+                            ]
+                        },
+                        {"name": "Pearson Education Taiwan Ltd"},
+                        {"name": "Pearson Egitim Cozumleri Ticaret Limited Sirketi"},
+                        {"name": "Pearson France"},
+                        {
+                            "name": "Pearson Holdings Southern Africa (Pty) Ltd",
+                            "children":[
+                                {"name": "Pearson Education Achievement Solutions (RF) (Pty) Ltd"},
+                                {
+                                    "name": "Pearson Education Africa (Pty) Ltd",
+                                    "children":[
+                                        {"name": "Heinemann Educational Botswana (Publishers) Proprietary Limited"},
+                                        {"name": "Longman (Malawi) Limited"},
+                                        {"name": "Longman Zambia Educational Publishers Limited"},
+                                        {"name": "Longman Zimbabwe (Private) Ltd"},
+                                        {"name": "Pearson Education Botswana (Proprietary) Limited"},
+                                        {"name": "Pearson Education Namibia (Pty) Limited"},
+                                        {"name": "Pearson Lesotho (Pty) Ltd"},
+                                        {"name": "Pearson Moçambique, Limitada"}
+                                    ]
+                                },
+                                {"name": "Pearson Education South Africa (Pty) Ltd"}
+                            ]
+                        },
+                        {"name": "Pearson Hungary LLC"},
+                        {"name": "Pearson Japan KK"},
+                        {"name": "Pearson Lanka (Private) Limited"},
+                        {"name": "Pearson Lanka Support Services (Private) Limited"},
+                        {"name": "Pearson Longman Uganda Limited"},
+                        {"name": "Pearson Sweden AB"},
+                        {"name": "Peking University Pearson (Beijing) Cultural Development Co., Ltd"},
+                        {"name": "Voxy, Inc."},
+                        {"name": "Williams Education GmbH"}
+                        
+                    ]
+                        
+                    },
+                    {
+                        "name":"Pearson Education Limited",
+                        "children":[
+                            {"name": "Education Resources (Cyprus) Limited"},
+                            {"name": "Educational Publishers LLP"},
+                            {"name": "The Egyptian International Publishing Company-Longman"}
+                        ]
+                    }
+                    
+                    
+               
+            ]
+        },
+        { "name": "Pearson Funding Four Limited" },
+        { "name": "Pearson Funding plc" },
+        { "name": "Pearson International Finance Limited" },
+        { "name": "Pearson Management Services Limited" },
+        { "name": "Pearson Nominees Limited" },
+        { 
+            "name": "Pearson Overseas Holdings Limited",
+            "children":[
+                {"name":"Cogmed Systems AB"},
+                {"name":"Dorian Finance Limited"},
+                {"name":"Pearson Brazil Finance Limited"},
+                {"name":"Pearson Canada Assessment Inc."},
+                {
+                    "name":"Pearson Canada Holdings Inc.",
+                    "children":[
+                        {"name": "Pearson Canada Inc."},
+                        {"name": "Pearson Educational Measurement Canada, Inc."}
+                    ]
+                },
+                {
+                    "name":"Pearson Dollar Finance Two Limited",
+                    "children":[
+                        {"name": "Lion SG Pte. Ltd."},
+                        {
+                            "name": "Pearson Loan Finance No.5 Limited",
+                            "children":[
+                                {"name": "Pearson Loan Finance No.6 Limited"}
+                            ]
+                        }
+                    ]
+                },
+                {"name":"Pearson Educacion SA"},
+                {
+                    "name":"Pearson Education, Inc.",
+                    "children":[
+                        {"name": "Academy of Pop LLC"},
+                        {"name": "Addison Wesley Longman, Inc."},
+                        {"name": "Addison-Wesley Educational Publishers Inc."},
+                        {"name": "ATI Professional Development LLC"},
+                        {"name": "Camsaw, Inc."},
+                        {"name": "CAMSAWUSA, Inc."},
+                        {"name": "Clutch Learning, Inc."},
+                        {
+                            "name": "Connections Education, Inc.",
+                            "children":[
+                                {
+                                    "name": "Connections Education LLC",
+                                    "children":[
+                                        {"name": "Connections Academy of Florida, LLC"},
+                                        {"name": "Connections Academy of Iowa, LLC"},
+                                        {"name": "Connections Academy of Maine, LLC"},
+                                        {"name": "Connections Academy of Maryland, LLC"},
+                                        {"name": "Connections Academy of Nevada, LLC"},
+                                        {"name": "Connections Academy of New Mexico, LLC"},
+                                        {"name": "Connections Academy of Oregon, LLC"},
+                                        {"name": "Connections Academy of Pennsylvania LLC"},
+                                        {"name": "Connections Academy of Tennessee, LLC"},
+                                        {"name": "Connections Academy of Texas LLC"},
+                                        {"name": "Connections Education of Florida, LLC"}
+                                    ]
+                                }
+                            ]
+                        },
+                        {"name": "Dominie Press, Inc."},
+                        {"name": "Educational Management Group, Inc."},
+                        {
+                            "name": "Globe Fearon Inc.",
+                            "children":[
+                                {"name": "Dyned International, Inc."}
+                            ]
+                        },
+                        {"name": "Intellipro, Inc."},
+                        {"name": "LessonLab, Inc."},
+                        {"name": "Lignum Oil Company"},
+                        {"name": "Lumerit Education, LLC"},
+                        {"name": "Pearson America LLC"},
+                        {
+                            "name": "Pearson Business Services Inc.",
+                            "children":[
+                                {
+                                    "name": "FBH, Inc.",
+                                    "children":[
+                                        {"name": "Sound Holdings Inc."}
+                                    ]
+                                }
+                            ]
+                        },
+                        {"name": "Pearson DBC Holdings Inc."},
+                        {
+                            "name": "Pearson Education Investments Limited",
+                            "children":[
+                                {"name": "Axis Finance Inc."},
+                                {
+                                    "name": "Pearson Holdings Inc.",
+                                    "children":[
+                                        {"name": "Pearson Real Estate Holdings Inc."},
+                                        {"name": "Reading Property Holdings LLC"},
+                                        {"name": "Rycade Capital Corporation"}
+                                    ]
+                                }
+                            ]
+                        },
+                        {"name": "Pearson Educational Publishers, LLC"},
+                        {
+                            "name": "Pearson Falstaff (Holdings) Inc.",
+                            "children":[
+                                {"name": "Falstaff Holdco Inc."},
+                                {"name": "Falstaff Inc."},
+                                {"name": "Pearson Falstaff Holdco LLC"}
+                            ]
+                        },
+                        {
+                            "name": "Pearson Investment Holdings, Inc.",
+                            "children":[
+                                {"name": "Dimensionu, Inc."},
+                                {"name": "Language Technologies, Inc."},
+                                {"name": "Learn Capital Special Opportunities Fund I, L.P."},
+                                {"name": "Learn Capital Venture Partners II, L.P."},
+                                {"name": "Learn Capital Venture Partners IIIA, L.P."},
+                                {"name": "Learn Capital Venture Partners IV, L.P."},
+                                {"name": "Learn Capital Venture Partners, L.P."}
+                            ]
+                        },
+                        {"name": "Pearson Maryland, Inc."},
+                        {
+                            "name": "Pearson Phoenix Pty Ltd",
+                            "children":[
+                                {"name": "Sparrow.Phoenix Pty Ltd"}
+                            ]
+                        },
+                        {"name": "Penguin Capital, LLC"},
+                        {
+                            "name": "PN Holdings Inc.",
+                            "children":[
+                                {
+                                    "name": "NCS Pearson, Inc.",
+                                    "children":[
+                                        {"name": "Century Consultants Ltd."},
+                                        {
+                                            "name": "Certiport, Inc.",
+                                            "children":[
+                                                {"name": "Certiport China Co Ltd"},
+                                                {"name": "Certiport China Holding, LLC"},
+                                                {"name": "MeasureUp of Delaware, LLC"}
+                                            ]
+                                        },
+                                        {"name": "Credly, Inc."},
+                                        {"name": "eCollege.com"},
+                                        {"name": "English Language Learning and Instruction System, Inc."},
+                                        {"name": "Faethm USA LLC"},
+                                        {
+                                            "name": "GED Testing Service LLC",
+                                            "children":[
+                                                {"name": "GED Domains LLC"}
+                                            ]
+                                        },
+                                        {"name": "Integral 7, Inc."},
+                                        {"name": "Knowledge Analysis Technologies, LLC"},
+                                        {"name": "MZ Development, Inc."},
+                                        {"name": "National Computer Systems Japan Co. Ltd"},
+                                        {"name": "Navvy Education, LLC"},
+                                        {"name": "NCS Information Technology Services (Beijing) Co Ltd"},
+                                        {"name": "NCS Pearson Puerto Rico, Inc."},
+                                        {"name": "Opinion Interactive LLC"},
+                                        {"name": "Ordinate Corporation"},
+                                        {"name": "Pearson Digital Learning Puerto Rico, Inc."},
+                                        {
+                                            "name": "Pearson Federal Holding Company, LLC",
+                                            "children":[
+                                                {"name": "Personnel Decisions Research Institutes, LLC"}
+                                            ]
+                                        },
+                                        {"name": "Pearson PEM P.R., Inc."},
+                                        {"name": "ProctorCam, Inc."},
+                                        {
+                                            "name": "Smarthinking, Inc.",
+                                            "children":[
+                                                {"name": "Pearson Online Tutoring LLC"}
+                                            ]
+                                        },
+                                        {"name": "Vue Testing Services Israel Ltd"}
+                                    ]
+                                }
+                            ]
+                        },
+                        {"name": "Rebus Planning Associates, Inc."},
+                        {"name": "Reston Publishing Co., Inc."},
+                        {
+                            "name": "Silver Burdett Ginn Inc.",
+                            "children":[
+                                {"name": "Modern Curriculum Inc."}
+                            ]
+                        },
+                        {"name": "Skylight Training and Publishing Inc."},
+                        {"name": "Smashcut, Inc."},
+                        {"name": "The Waite Group, Inc."}
+                    ]
+                },
+                {"name":"Pearson Israel (P.I.) Ltd"},
+                {"name":"Pearson Loan Finance No. 3 Limited"},
+                {
+                    "name":"Pearson Loan Finance Unlimited",
+                    "children":[
+                        {"name": "Atkey Finance Limited"}
+                    ]
+                },
+                {
+                    "name":"Pearson Netherlands B.V.",
+                    "children":[
+                        {
+                            "name": "Pearson Amsterdam B.V.",
+                            "children":[
+                                {"name": "Aldwych Finance Limited"},
+                                {"name": "Pearson Benelux B.V."},
+                                {
+                                    "name": "Pearson Education Asia Limited",
+                                    "children":[
+                                        {"name": "Jinxin Technology Holding Company"},
+                                        {"name": "Pearson (Beijing) Management Consulting Co., Ltd."},
+                                        {"name": "Pui Man Publishing Limited"},
+                                        {"name": "Shanghai AWL Education Software Ltd"}
+                                    ]
+                                },
+                                {
+                                    "name": "Pearson Education South Asia Pte. Ltd.",
+                                    "children":[
+                                        {
+                                            "name": "AEL (S) PTE Limited",
+                                            "children":[
+                                                {"name": "PT Efficient English Services"}
+                                            ]
+                                        },
+                                        {"name": "IndiaCan Education Private Limited"},
+                                        {"name": "LCCIEB Training Consultancy., Ltd"},
+                                        {"name": "Pearson India Education Services Private Limited"}
+                                    ]
+                                },
+                                {"name": "Pearson Malaysia Sdn. Bhd."},
+                                {"name": "Pearson Management Services Philippines Inc."},
+                                {"name": "Pearson Schweiz AG"},
+                                {"name": "Pearson VUE Europe B.V."},
+                                {"name": "Pearson VUE Philippines, Inc."}
+                            ]
+                        },
+                        {
+                            "name": "Pearson Australia Holdings Pty Ltd",
+                            "children":[
+                                {
+                                    "name": "Faethm Holdings Pty. Limited",
+                                    "children":[
+                                        {"name": "Faethm IP Pty. Limited"},
+                                        {"name": "Faethm Pty. Limited"}
+                                    ]
+                                },
+                                {
+                                    "name": "Pearson Australia Group Pty Ltd",
+                                    "children":[
+                                        {"name": "NCS Pearson Pty Ltd"}
+                                    ]
+                                }
+                            ]
+                        },
+                        {"name": "Pearson Deutschland GmbH"},
+                        {"name": "Pearson Educación de México, S.A. de C.V."},
+                        {"name": "Pearson Education (Singapore) Pte Ltd"},
+                        {"name": "Pearson Education Korea Limited"}
+                    ]
+                },
+                {"name":"Pearson Netherlands Holdings B.V."},
+                {"name":"Pearson Professional Assessments Limited"},
+                {"name":"Pearson Strand Limited"},
+                {
+                    "name":"PVNT Limited",
+                    "children":[
+                        {"name": "Mindstone Learning Limited"},
+                        {"name": "Pathstream, Inc."},
+                        {"name": "Secondmind Limited"},
+                        {"name": "SlideRule Labs, Inc."},
+                        {"name": "Talespin Reality Labs, Inc."},
+                        {"name": "TeachFX, Inc."},
+                        {"name": "Velocity Career Labs, Inc."},
+                        {"name": "Wonderush Limited"}
+                    ]
+                },
+                {
+                    "name":"TQ Global Limited",
+                    "children":[
+                        {
+                            "name": "TQ Holdings Limited",
+                            "children":[
+                                {
+                                    "name": "TQ Group Limited",
+                                    "children":[
+                                        {"name": "Minerva Education and Training (Holdings) Limited"},
+                                        {
+                                            "name": "TQ Education and Training Limited",
+                                            "children":[
+                                                {"name": "Major123 Limited"},
+                                                {"name": "TQ Catalis Limited"},
+                                                {"name": "TQ Clapham Limited"},
+                                                {"name": "TQ Education and Training Limited [Saudi]"}
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {"name":"Vue Testing Services Korea Limited"}
+                
+            ] 
+        },
+        { "name": "Pearson Real Estate Holdings Limited"},
+        { 
+            "name": "Pearson Services Limited",
+            "children":[
+                {
+                    "name":"Pearson Pension Trustee Limited",
+                    "children":[
+                        {"name": "Pearson Pension Property Fund Limited"},
+                        {
+                            "name": "Pearson Pension Trustee Services Limited",
+                            "children":[
+                                {"name": "Pearson Pension Nominees Limited"}
+                            ]
+                        }
+                    ]
+                }
+            ] 
+        
+        },
+        { "name": "Pearson Shared Services Limited" },
+        { 
+            "name": "Pearson Strand Finance Limited",
+            "children":[
+                {"name":"Pearson Australia Finance Unlimited"},
+                {"name":"Pearson Canada Finance Unlimited"}
+            ] 
+        
+        },
+        { "name": "Spear Insurance Company Limited" }
+
+
+    ]
+}
