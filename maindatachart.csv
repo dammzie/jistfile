@@ -1,0 +1,239 @@
+id,parentId,name,image
+1,,Pearson plc,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+2,1,Edexcel Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+3,1,Education Development International Plc,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+4,1,Pearson Books Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+5,1,Pearson Dollar Finance plc,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+6,1,Pearson Education Holdings Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+7,6,Faethm Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+8,6,Longman Group(Overseas Holdings)Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+9,8,ATI Studios A.P.P.S. S.R.L.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+10,8,"George (Shanghai) Commercial Information Consulting Co., Ltd",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+11,8,"Longman Indochina Acquisition, L.L.C.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+12,11,Pearson Education Indochina Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+13,8,Longman Tanzania Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+14,8,Pearson Central Europe Spó?ka z ograniczon? odpowiedzialno?ci?,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+15,8,Pearson Educación de Colombia S.A.S.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+16,8,Pearson Educacion de Panama SA,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+17,8,Pearson Educación de Perú S.A.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+18,8,Pearson Education do Brasil Ltda,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+19,18,Centro Cultural Americano Franquias e Comércio Ltda.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+20,18,Multi Treinamento e Editora Ltda,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+21,18,Prepona Sistemas de Testagem e Avaliação S.A.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+22,8,Pearson Education Hellas SA,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+23,8,Pearson Education Publishing Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+24,8,Pearson Education Resources Italia S.R.L.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+25,8,Pearson Education SA,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+26,25,Pearson Educacion de Chile Limitada,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+27,26,Longmaned Ecuador S.A.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+28,26,Pearson Desarrollo y Capacitación Profesional Chile Limitada,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+29,25,Pearson Education S.A.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+30,8,Pearson Education Taiwan Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+31,8,Pearson Egitim Cozumleri Ticaret Limited Sirketi,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+32,8,Pearson France,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+33,8,Pearson Holdings Southern Africa (Pty) Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+34,33,Pearson Education Achievement Solutions (RF) (Pty) Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+35,33,Pearson Education Africa (Pty) Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+36,35,Doxa and Pearson Joint Venture,
+37,35,Heinemann Educational Botswana (Publishers) Proprietary Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+38,35,Longman (Malawi) Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+39,35,Longman Zambia Educational Publishers Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+40,35,Longman Zimbabwe (Private) Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+41,35,Pearson Education Botswana (Proprietary) Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+42,35,Pearson Education Namibia (Pty) Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+43,35,Pearson Lesotho (Pty) Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+44,35,"Pearson Moçambique, Limitada",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+45,33,Pearson Education South Africa (Pty) Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+46,8,Pearson Hungary LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+47,8,Pearson Japan KK,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+48,8,Pearson Lanka (Private) Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+49,8,Pearson Lanka Support Services (Private) Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+50,8,Pearson Longman Uganda Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+51,8,Pearson Sweden AB,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+52,8,"Peking University Pearson (Beijing) Cultural Development Co., Ltd",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+53,8,"Voxy, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+54,8,Williams Education GmbH,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+55,6,Pearson Education Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+56,8,Education Resources (Cyprus) Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+57,8,Educational Publishers LLP,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+58,8,The Egyptian International Publishing Company-Longman,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+59,1,Pearson Funding Four Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+60,1,Pearson Funding plc,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+61,1,Pearson International Finance Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+62,1,Pearson Management Services Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+63,1,Pearson Nominees Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+64,1,Pearson Overseas Holdings Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+65,64,Cogmed Systems AB,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+66,64,Dorian Finance Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+67,64,Pearson Benelux B.V.,
+68,64,Pearson Brazil Finance Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+69,64,Pearson Canada Assessment Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+70,64,Pearson Canada Holdings Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+71,70,Pearson Canada Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+72,70,"Pearson Educational Measurement Canada, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+73,64,Pearson Dollar Finance Two Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+74,73,Lion SG Pte. Ltd.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+75,73,Pearson Loan Finance No.5 Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+76,75,Pearson Loan Finance No.6 Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+77,64,Pearson Educacion SA,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+78,64,"Pearson Education, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+79,78,Academy of Pop LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+80,78,"Addison Wesley Longman, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+81,78,Addison-Wesley Educational Publishers Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+82,78,ATI Professional Development LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+83,78,"Camsaw, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+84,78,"CAMSAWUSA, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+85,78,"Clutch Learning, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+86,78,"Connections Education, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+87,86,Connections Education LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+88,87,"Connections Academy of Florida, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+89,87,"Connections Academy of Iowa, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+90,87,"Connections Academy of Maine, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+91,87,"Connections Academy of Maryland, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+92,87,"Connections Academy of Nevada, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+93,87,"Connections Academy of New Mexico, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+94,87,"Connections Academy of Oregon, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+95,87,Connections Academy of Pennsylvania LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+96,87,"Connections Academy of Tennessee, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+97,87,Connections Academy of Texas LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+98,87,"Connections Education of Florida, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+99,78,"Dominie Press, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+100,78,"Educational Management Group, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+101,78,Globe Fearon Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+102,101,"Dyned International, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+103,78,"Intellipro, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+104,78,"LessonLab, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+105,78,Lignum Oil Company,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+106,78,"Lumerit Education, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+107,78,Pearson America LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+108,78,Pearson Business Services Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+109,108,"FBH, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+110,109,Sound Holdings Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+111,78,Pearson DBC Holdings Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+112,78,Pearson Education Investments Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+113,112,Axis Finance Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+114,112,Pearson Holdings Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+115,114,Pearson Real Estate Holdings Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+116,114,Reading Property Holdings LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+117,114,Rycade Capital Corporation,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+118,78,"Pearson Educational Publishers, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+119,78,Pearson Falstaff (Holdings) Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+120,119,Falstaff Holdco Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+121,119,Falstaff Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+122,119,Pearson Falstaff Holdco LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+123,78,"Pearson Investment Holdings, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+124,123,"Dimensionu, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+125,123,"Language Technologies, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+126,123,"Learn Capital Special Opportunities Fund I, L.P.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+127,123,"Learn Capital Venture Partners II, L.P.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+128,123,"Learn Capital Venture Partners IIIA, L.P.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+129,123,"Learn Capital Venture Partners IV, L.P.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+130,123,"Learn Capital Venture Partners, L.P.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+131,78,"Pearson Maryland, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+132,78,Pearson Phoenix Pty Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+133,132,Sparrow.Phoenix Pty Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+134,78,"Penguin Capital, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+135,78,PN Holdings Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+136,135,"NCS Pearson, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+137,136,Century Consultants Ltd.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+138,136,"Certiport, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+139,138,Certiport China Co Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+140,138,"Certiport China Holding, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+141,138,"MeasureUp of Delaware, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+142,136,"Credly, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+143,136,eCollege.com,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+144,136,"English Language Learning and Instruction System, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+145,136,Faethm USA LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+146,136,GED Testing Service LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+147,146,GED Domains LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+148,136,"Integral 7, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+149,136,"Knowledge Analysis Technologies, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+150,136,"MZ Development, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+151,136,National Computer Systems Japan Co. Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+152,136,"Navvy Education, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+153,136,NCS Information Technology Services (Beijing) Co Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+154,136,"NCS Pearson Puerto Rico, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+155,136,Opinion Interactive LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+156,136,Ordinate Corporation,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+157,136,"Pearson Digital Learning Puerto Rico, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+158,136,"Pearson Federal Holding Company, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+159,158,"Personnel Decisions Research Institutes, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+160,136,"Pearson PEM P.R., Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+161,136,"ProctorCam, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+162,136,"Smarthinking, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+163,162,Pearson Online Tutoring LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+164,136,Vue Testing Services Israel Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+165,78,"Rebus Planning Associates, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+166,78,"Reston Publishing Co., Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+167,78,Silver Burdett Ginn Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+168,167,Modern Curriculum Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+169,78,Skylight Training and Publishing Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+170,78,"Smashcut, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+171,78,"The Waite Group, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+172,64,Pearson Israel (P.I.) Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+173,64,Pearson Loan Finance No. 3 Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+174,64,Pearson Loan Finance No. 4 Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+175,64,Pearson Loan Finance Unlimited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+176,175,Atkey Finance Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+177,64,Pearson Netherlands B.V.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+178,177,Pearson Amsterdam B.V.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+179,178,Aldwych Finance Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+180,178,Pearson Education Asia Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+181,180,Jinxin Technology Holding Company,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+182,180,"Pearson (Beijing) Management Consulting Co., Ltd.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+183,180,Pui Man Publishing Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+184,180,Shanghai AWL Education Software Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+185,178,Pearson Education South Asia Pte. Ltd.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+186,185,AEL (S) PTE Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+187,186,PT Efficient English Services,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+188,185,IndiaCan Education Private Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+189,185,"LCCIEB Training Consultancy., Ltd",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+190,185,Pearson India Education Services Private Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+191,178,Pearson Malaysia Sdn. Bhd.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+192,178,Pearson Management Services Philippines Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+193,178,Pearson Schweiz AG,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+194,178,Pearson VUE Europe B.V.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+195,178,"Pearson VUE Philippines, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+196,177,Pearson Australia Holdings Pty Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+197,196,Faethm Holdings Pty. Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+198,197,Faethm IP Pty. Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+199,197,Faethm Pty. Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+200,196,Pearson Australia Group Pty Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+201,200,NCS Pearson Pty Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+202,177,Pearson Deutschland GmbH,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+203,177,"Pearson Educación de México, S.A. de C.V.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+204,177,Pearson Education (Singapore) Pte Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+205,177,Pearson Education Korea Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+206,64,Pearson Netherlands Holdings B.V.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+207,64,Pearson Professional Assessments Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+208,64,Pearson Strand Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+209,64,PVNT Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+210,209,Mindstone Learning Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+211,209,"Pathstream, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+212,209,Secondmind Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+213,209,"SlideRule Labs, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+214,209,"Talespin Reality Labs, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+215,209,"TeachFX, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+216,209,"Velocity Career Labs, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+217,209,Wonderush Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+218,64,TQ Global Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+219,218,TQ Holdings Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+220,219,TQ Group Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+221,220,Minerva Education and Training (Holdings) Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+222,220,TQ Education and Training Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+223,222,Major123 Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+224,222,TQ Catalis Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+225,222,TQ Clapham Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+226,222,TQ Education and Training Limited [Saudi],https://dammzie.github.io/6095138353a8bf00040ff37a.png
+227,64,Vue Testing Services Korea Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+228,1,Pearson Real Estate Holdings Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+229,1,Pearson Services Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+230,229,Pearson Pension Trustee Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+231,230,Pearson Pension Property Fund Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+232,230,Pearson Pension Trustee Services Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+233,232,Pearson Pension Nominees Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+234,1,Pearson Shared Services Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+235,1,Pearson Strand Finance Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+236,235,Pearson Australia Finance Unlimited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+237,235,Pearson Canada Finance Unlimited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+238,1,Spear Insurance Company Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
