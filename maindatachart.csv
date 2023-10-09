@@ -12,21 +12,21 @@ id,parentId,name,image
 11,8,"Longman Indochina Acquisition, L.L.C.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
 12,11,Pearson Education Indochina Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 13,8,Longman Tanzania Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
-14,8,Pearson Central Europe Spó?ka z ograniczon? odpowiedzialno?ci?,https://dammzie.github.io/6095138353a8bf00040ff37a.png
-15,8,Pearson Educación de Colombia S.A.S.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+14,8,Pearson Central Europe SpÃ³?ka z ograniczon? odpowiedzialno?ci?,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+15,8,Pearson EducaciÃ³n de Colombia S.A.S.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 16,8,Pearson Educacion de Panama SA,https://dammzie.github.io/6095138353a8bf00040ff37a.png
-17,8,Pearson Educación de Perú S.A.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+17,8,Pearson EducaciÃ³n de PerÃº S.A.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 18,8,Pearson Education do Brasil Ltda,https://dammzie.github.io/6095138353a8bf00040ff37a.png
-19,18,Centro Cultural Americano Franquias e Comércio Ltda.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+19,18,Centro Cultural Americano Franquias e ComÃ©rcio Ltda.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 20,18,Multi Treinamento e Editora Ltda,https://dammzie.github.io/6095138353a8bf00040ff37a.png
-21,18,Prepona Sistemas de Testagem e Avaliação S.A.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+21,18,Prepona Sistemas de Testagem e AvaliaÃ§Ã£o S.A.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 22,8,Pearson Education Hellas SA,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 23,8,Pearson Education Publishing Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 24,8,Pearson Education Resources Italia S.R.L.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 25,8,Pearson Education SA,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 26,25,Pearson Educacion de Chile Limitada,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 27,26,Longmaned Ecuador S.A.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
-28,26,Pearson Desarrollo y Capacitación Profesional Chile Limitada,https://dammzie.github.io/6095138353a8bf00040ff37a.png
+28,26,Pearson Desarrollo y CapacitaciÃ³n Profesional Chile Limitada,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 29,25,Pearson Education S.A.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 30,8,Pearson Education Taiwan Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 31,8,Pearson Egitim Cozumleri Ticaret Limited Sirketi,https://dammzie.github.io/6095138353a8bf00040ff37a.png
@@ -34,7 +34,7 @@ id,parentId,name,image
 33,8,Pearson Holdings Southern Africa (Pty) Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 34,33,Pearson Education Achievement Solutions (RF) (Pty) Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 35,33,Pearson Education Africa (Pty) Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
-36,35,Doxa and Pearson Joint Venture,
+36,35,Doxa and Pearson Joint Venture,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 37,35,Heinemann Educational Botswana (Publishers) Proprietary Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 38,35,Longman (Malawi) Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 39,35,Longman Zambia Educational Publishers Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
@@ -42,7 +42,7 @@ id,parentId,name,image
 41,35,Pearson Education Botswana (Proprietary) Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 42,35,Pearson Education Namibia (Pty) Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 43,35,Pearson Lesotho (Pty) Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
-44,35,"Pearson Moçambique, Limitada",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+44,35,"Pearson MoÃ§ambique, Limitada",https://dammzie.github.io/6095138353a8bf00040ff37a.png
 45,33,Pearson Education South Africa (Pty) Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 46,8,Pearson Hungary LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 47,8,Pearson Japan KK,https://dammzie.github.io/6095138353a8bf00040ff37a.png
@@ -65,7 +65,7 @@ id,parentId,name,image
 64,1,Pearson Overseas Holdings Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 65,64,Cogmed Systems AB,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 66,64,Dorian Finance Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
-67,64,Pearson Benelux B.V.,
+67,64,Pearson Benelux B.V.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 68,64,Pearson Brazil Finance Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 69,64,Pearson Canada Assessment Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 70,64,Pearson Canada Holdings Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
@@ -201,7 +201,7 @@ id,parentId,name,image
 200,196,Pearson Australia Group Pty Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 201,200,NCS Pearson Pty Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 202,177,Pearson Deutschland GmbH,https://dammzie.github.io/6095138353a8bf00040ff37a.png
-203,177,"Pearson Educación de México, S.A. de C.V.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
+203,177,"Pearson EducaciÃ³n de MÃ©xico, S.A. de C.V.",https://dammzie.github.io/6095138353a8bf00040ff37a.png
 204,177,Pearson Education (Singapore) Pte Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 205,177,Pearson Education Korea Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png
 206,64,Pearson Netherlands Holdings B.V.,https://dammzie.github.io/6095138353a8bf00040ff37a.png
