@@ -1,4 +1,4 @@
-﻿id,parentId,name,images
+﻿id,parentId,name,image
 1,,Treasury Cash Pool,https://dammzie.github.io/bank.png
 2,1,ZBA,https://dammzie.github.io/bank.png
 3,1,Notional,https://dammzie.github.io/bank.png
