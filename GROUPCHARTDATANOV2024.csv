@@ -1,0 +1,231 @@
+﻿id,parentId,name,image,Country,CountryFlag,ownedbyPearson,PercentageSummary,2ndPearsoncompanyhasNS,PRIMECode
+1,,Pearson plc,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9040
+2,1,Education Development International Plc,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9005
+3,1,Pearson Dollar Finance plc,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9007
+4,1,Pearson Education Holdings Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9033
+5,4,Faethm Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9058
+6,4,Longman Group(Overseas Holdings)Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9036
+7,6,ATI Studios A.P.P.S. S.R.L.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Romania,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/romania.png,,,,974
+8,6,"George (Shanghai) Commercial Information Consulting Co., Ltd",https://dammzie.github.io/6095138353a8bf00040ff37a.png,China,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/china.png,,,,512
+9,6,"Longman Indochina Acquisition, L.L.C.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,<00.1 ,Total held by 2 Pearson nominee shareholders,,9612
+10,9,Pearson Education Indochina Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Thailand,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/thailand.png,,,YES,3750
+11,6,Longman Tanzania Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Tanzania,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/tanzania.png,,,YES,0
+12,6,Pearson Central Europe SpÃ³?ka z ograniczon? odpowiedzialno?ci?,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Poland,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/poland.png,,,,3200
+13,6,Pearson Educacion de Colombia S.A.S.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Colombia,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/colombia.png,,,YES,364
+14,6,Pearson Educacion de Panama SA,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Panama,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/panama.png,,,,361
+15,6,Pearson Educacion de Peru S.A.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Peru,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/peru.png,,,YES,366
+16,6,Pearson Education do Brasil Ltda,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Brazil,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/brazil-.png,,,YES,348
+17,16,Multi Treinamento e Editora Ltda,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Brazil,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/brazil-.png,,,YES,356
+18,16,Prepona Sistemas de Testagem e Av. S.A.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Brazil,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/brazil-.png,22.20%,,,0
+19,6,Pearson Education Hellas SA,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Greece,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/greece.png,,,YES,419
+20,6,Pearson Education Publishing Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Nigeria,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/nigeria.png,,,YES,481
+21,230,Pearson Educacion de Chile Limitada,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Chile,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/chile.png,,,YES,359
+22,21,Longmaned Ecuador S.A.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Ecuador,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/ecuador.png,,,YES,366
+23,21,Pearson Desarrollo Cap. Profesional Chile Limitada,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Chile,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/chile.png,,,YES,369
+24,230,Pearson Education S.A.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Uruguay,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/uruguay.png,,,,368
+25,6,Pearson Education Taiwan Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Taiwan,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/taiwan.png,<0.01%,Total held by 6 Pearsons nominee shareholders,,534
+26,6,Pearson Egitim Cozumleri Ticaret Limited Sirketi,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Turkey,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/turkey.png,,,YES,480
+27,6,Pearson France,https://dammzie.github.io/6095138353a8bf00040ff37a.png,France,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/france.png,,,,440
+28,6,Pearson Holdings Southern Africa (Pty) Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png,South Africa,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/south-africa.png,,,,496
+29,28,Pearson Education Achievement Solutions (RF) (Pty) Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png,South Africa,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/south-africa.png,97.30%,,,494
+30,28,Pearson Education Africa (Pty) Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png,South Africa,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/south-africa.png,,,,486
+31,39,Heinemann Educational Botswana (Publishers) Proprietary Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Botswana,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/botswana.png,,,YES,391
+32,39,Longman (Malawi) Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Malawi,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/malawi.png,,,YES,400
+33,39,Longman Zambia Educational Publishers Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Zambia,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/zambia.png,,,YES,395
+34,39,Longman Zimbabwe (Private) Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Zimbabwe,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/zimbabwe.png,,,YES,402
+35,39,Pearson Education Botswana (Proprietary) Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Botswana,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/botswana.png,,,YES,392
+36,39,Pearson Education Namibia (Pty) Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Namibia,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/namibia.png,,,,397
+37,39,Pearson Lesotho (Pty) Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Lesotho,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/lesotho.png,,,,390
+38,39,"Pearson Mocambique, Limitada",https://dammzie.github.io/6095138353a8bf00040ff37a.png,Mozambique,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/mozambique.png,,,YES,401
+39,28,Pearson Education South Africa (Pty) Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png,South Africa,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/south-africa.png,,,,8316
+40,6,Pearson Hungary LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Hungary,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/hungary.png,,,,464
+41,6,Pearson Japan KK,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Japan,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/japan.png,,,,2202
+42,6,Pearson Lanka (Private) Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Sri Lanka,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/sri-lanka.png,,,,3450
+43,6,Pearson Lanka Support Services (Private) Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Sri Lanka,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/sri-lanka.png,,,,3451
+44,6,Pearson Longman Uganda Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Uganda,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/uganda.png,,,,405
+45,6,Pearson Regional Headquarters Arabia (single-shareholder limited liability company) ,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Saudi Arabia,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/saudi-arabia.png,,,,298
+46,6,Pearson Sweden AB,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Sweden,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/sweden.png,,,,417
+47,6,"Peking University Pearson (Beijing) Cultural Development Co., Ltd",https://dammzie.github.io/6095138353a8bf00040ff37a.png,China,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/china.png,45%,,,0
+48,6,"Voxy, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,2.84%,,,8401
+49,6,Williams Education GmbH,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Germany,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/germany.png,,,,444
+50,4,Pearson Education Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9000
+51,50,Education Resources (Cyprus) Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Cyprus,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/cyprus.png,,,,371
+52,50,Educational Publishers LLP,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,85%,,,9580
+53,50,The Egyptian International Publishing Company-Longman,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Egypt ,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/egypt.png,49%,,,452
+54,1,Pearson Funding plc,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9008
+55,1,Pearson International Finance Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9015
+56,1,Pearson Management Services Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9001
+57,1,Pearson Nominees Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,8131
+58,1,Pearson Overseas Holdings Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9019
+59,58,Cogmed Systems AB,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Sweden,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/sweden.png,,,,415
+60,58,Dorian Finance Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Ireland,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/ireland.png,,,,2053
+61,58,Pearson Benelux B.V.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Netherlands,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/netherlands.png,,,,2854
+62,58,Pearson Canada Assessment Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Canada,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/canada.png,,,,1307
+63,58,Pearson Canada Holdings Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Canada,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/canada.png,,,,1303
+64,63,Pearson Canada Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Canada,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/canada.png,,,,1304
+65,63,"Pearson Educational Measurement Canada, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,Canada,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/canada.png,,,,1306
+66,58,Pearson Dollar Finance Two Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9023
+67,66,Lion SG Pte. Ltd.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Singapore,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/singapore.png,,,,9052
+68,66,Pearson Loan Finance No.5 Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9053
+69,66,Pearson Loan Finance No.6 Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9054
+70,58,Pearson Educacion SA,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Spain,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/spain.png,,84.5% Owned Pearson Overseas Holdings Ltd,,418
+71,58,"Pearson Education, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9516
+72,71,Academy of Pop LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,13%,,,0
+73,71,"Addison Wesley Longman, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9596
+74,71,Addison-Wesley Educational Publishers Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9595
+75,71,ATI Professional Development LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,131
+76,71,"Camsaw, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9593
+77,71,"CAMSAWUSA, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9511
+78,71,"Clutch Learning, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9631
+79,71,"Connections Education, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9518
+80,79,Connections Education LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9519
+81,80,"Connections Academy of Florida, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,147
+82,80,"Connections Academy of Iowa, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,147
+83,80,"Connections Academy of Maine, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,147
+84,80,"Connections Academy of Maryland, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,147
+85,80,"Connections Academy of Nevada, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,147
+86,80,"Connections Academy of New Mexico, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,147
+87,80,"Connections Academy of Oregon, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,147
+88,80,Connections Academy of Pennsylvania LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,147
+89,80,"Connections Academy of Tennessee, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,147
+90,80,Connections Academy of Texas LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9550
+91,80,"Connections Education of Florida, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,147
+92,71,"Dominie Press, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9579
+93,71,"Educational Management Group, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9578
+94,71,Globe Fearon Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9588
+95,94,"Dyned International, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,0.80%,,,0
+96,71,"Intellipro, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9510
+97,71,"LessonLab, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9583
+98,71,Lignum Oil Company,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9605
+99,71,"Lumerit Education, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,0
+100,71,Pearson America LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9558
+101,71,Pearson Business Services Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9608
+102,101,"FBH, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9609
+103,102,Sound Holdings Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9610
+104,71,Pearson DBC Holdings Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9505
+105,71,Pearson Education Investments Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9026
+106,105,Pearson Holdings Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9599
+107,106,Pearson Real Estate Holdings Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9600
+108,106,Reading Property Holdings LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9584
+109,106,Rycade Capital Corporation,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9601
+110,71,"Pearson Educational Publishers, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9580
+111,71,Pearson Falstaff (Holdings) Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9621
+112,111,Falstaff Holdco Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9615
+113,111,Falstaff Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9616
+114,111,Pearson Falstaff Holdco LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9621
+115,71,"Pearson Investment Holdings, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9504
+116,115,"Dimensionu, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,5.90%,,,0
+117,115,"Language Technologies, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,7.80%,,,0
+118,115,"Learn Capital Special Opportunities Fund I, L.P.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,99.60%,,,0
+119,115,"Learn Capital Venture Partners II, L.P.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,72.90%,,,0
+120,115,"Learn Capital Venture Partners IIIA, L.P.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,Cayman Islands,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/cayman-islands.png,99%,,,0
+121,115,"Learn Capital Venture Partners IV, L.P.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,Cayman Islands,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/cayman-islands.png,3.45%,,,0
+122,115,"Learn Capital Venture Partners, L.P.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,99.20%,,YES,9587
+123,71,"Pearson Maryland, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9587
+124,71,Pearson Phoenix Pty Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Australia,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/australia.png,,,,0
+125,124,Sparrow.Phoenix Pty Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Australia,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/australia.png,,,,1059
+126,71,"Penguin Capital, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,0
+127,71,PN Holdings Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9559
+128,127,"NCS Pearson, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9560
+129,128,Century Consultants Ltd.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,0
+130,128,"Certiport, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9575
+131,130,Certiport China Co Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png,China,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/china.png,50.70%,,,0
+132,130,"Certiport China Holding, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9577
+133,130,"MeasureUp of Delaware, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,0
+134,128,"Credly, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9630
+135,128,eCollege.com,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9573
+136,128,"English Language Learning and Instruction System, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,129
+137,128,Faethm USA LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9629
+138,128,GED Testing Service LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,70%,,,9566
+139,138,GED Domains LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,0
+140,128,"Integral 7, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9571
+141,128,"Knowledge Analysis Technologies, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9565
+142,128,"MZ Development, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9628
+143,128,National Computer Systems Japan Co. Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Japan,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/japan.png,,,,294
+144,128,"Navvy Education, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,0
+145,128,NCS Information Technology Services (Beijing) Co Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png,China,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/china.png,,,,293
+146,128,"NCS Pearson Puerto Rico, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,Puerto Rico,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/puerto-rico.png,,,,3252
+147,128,Opinion Interactive LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9625
+148,128,Ordinate Corporation,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9574
+149,128,"Pearson Digital Learning Puerto Rico, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,Puerto Rico,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/puerto-rico.png,,,,3252
+150,128,"Pearson Federal Holding Company, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9635
+151,150,"Personnel Decisions Research Institutes, LLC",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9634
+152,128,"Pearson PEM P.R., Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,Puerto Rico,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/puerto-rico.png,,,,165
+153,128,"ProctorCam, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9614
+154,128,"Smarthinking, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9569
+155,154,Pearson Online Tutoring LLC,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,148
+156,128,Vue Testing Services Israel Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Israel,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/israel.png,,,,295
+157,71,"Rebus Planning Associates, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,176
+158,71,"Reston Publishing Co., Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9512
+159,71,Silver Burdett Ginn Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9590
+160,159,Modern Curriculum Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9591
+161,71,Skylight Training and Publishing Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9592
+162,71,"Smashcut, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,25.93%,,,0
+163,71,"The Waite Group, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,,,,9513
+164,58,Pearson Israel (P.I.) Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Israel,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/israel.png,,,,296
+165,58,Pearson Loan Finance No. 3 Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9021
+166,58,Pearson Loan Finance Unlimited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9057
+167,58,Pearson Netherlands B.V.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Netherlands,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/netherlands.png,,,,2856
+168,167,Pearson Amsterdam B.V.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Netherlands,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/netherlands.png,,,,449
+169,168,Aldwych Finance Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9032
+170,168,Pearson Education Asia Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Hong Kong,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/hong-kong.png,,,,530
+171,170,Jinxin Technology Holding Company,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Cayman Islands,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/cayman-islands.png,2.67%,,,0
+172,170,"Pearson (Beijing) Management Consulting Co., Ltd.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,China,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/china.png,,,,0
+173,170,Pui Man Publishing Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Macau,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/macao.png,49%,,,0
+174,170,Shanghai AWL Education Software Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png,China,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/china.png,,,,526
+175,168,Pearson Education South Asia Pte. Ltd.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Singapore,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/singapore.png,,,,3300
+176,175,AEL (S) PTE Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Singapore,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/singapore.png,,,,3302
+177,176,PT Efficient English Services,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Indonesia,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/indonesia.png,,,YES,546
+178,175,IndiaCan Education Private Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,India,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/india.png,,,YES,2001
+179,175,Pearson India Education Services Private Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,India,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/india.png,,,YES,2004
+180,168,Pearson Malaysia Sdn. Bhd.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Malaysia,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/malaysia.png,,,,2601
+181,168,Pearson Management Services Philippines Inc.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Philippines,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/philippines.png,<0.01%,Total held by 5 Pearson nominee shareholders,,3175
+182,61,Pearson Schweiz AG,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Switzerland,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/switzerland.png,,,,457
+183,168,Pearson VUE Europe B.V.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Netherlands,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/netherlands.png,,,,2855
+184,168,"Pearson VUE Philippines, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,Philippines,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/philippines.png,,,,290
+185,167,Pearson Australia Holdings Pty Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Australia,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/australia.png,,,,1050
+186,185,Faethm Holdings Pty. Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Australia,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/australia.png,,,,1060
+187,186,Faethm IP Pty. Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Australia,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/australia.png,,,,1061
+188,186,Faethm Pty. Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Australia,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/australia.png,,,,1062
+189,185,Pearson Australia Group Pty Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Australia,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/australia.png,,,,1053
+190,189,NCS Pearson Pty Ltd,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Australia,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/australia.png,,,,1051
+191,167,"Pearson Edu. de Mexico, S.A. de C.V.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,Mexico,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/mexico.png,,,YES,361
+192,167,Pearson Education Korea Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Korea,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/south-korea.png,,,,540
+193,58,Pearson Netherlands Holdings B.V.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Netherlands,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/netherlands.png,,,,448
+194,58,Pearson Professional Assessments Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9028
+195,58,Pearson Strand Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9022
+196,58,PVNT Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9029
+197,196,"College Consortium, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,9.25%,,,0
+198,196,MentorConnect Pty Ltd aka With You With Me,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Australia,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/australia.png,8.72%,,,0
+199,196,Mindstone Learning Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,2.95%,,,0
+200,196,Nexford Learning Solutions Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,2.17%,,,0
+201,196,"Pathstream, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,2.77%,,,0
+202,196,Secondmind Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,2.70%,,,0
+203,196,"SlideRule Labs, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,4.26%,PVNT Stake,,0
+204,196,"Talespin Reality Labs, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,6.30%,,,0
+205,196,"TeachFX, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,3.23%,,,0
+206,196,"Velocity Career Labs, Inc.",https://dammzie.github.io/6095138353a8bf00040ff37a.png,United States,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-states.png,10.80%,,,0
+207,196,Wonderush Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,7.43%,,,0
+208,58,TQ Global Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9030
+209,208,TQ Holdings Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9103
+210,209,TQ Group Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9104
+211,210,Minerva Education and Training (Holdings) Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,10%,,,0
+212,210,TQ Education and Training Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9100
+213,212,TQ Education and Training Limited [Saudi],https://dammzie.github.io/6095138353a8bf00040ff37a.png,Saudi Arabia,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/saudi-arabia.png,,90% Owned TQ Edu & Training Limited,,479
+214,58,Vue Testing Services Korea Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Korea,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/south-korea.png,,,,291
+215,1,Pearson Services Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9014
+216,215,Pearson Pension Trustee Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,50%,3 Pearson trustees hold 16.67% each,,9044
+217,216,Pearson Pension Property Fund Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,50%,,50%,0
+218,216,Pearson Pension Trustee Services Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,50%,,,9050
+219,218,Pearson Pension Nominees Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,50%,,,0
+220,1,Pearson Shared Services Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9003
+221,1,Pearson Strand Finance Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9051
+222,221,Pearson Australia Finance Unlimited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9055
+223,221,Pearson Canada Finance Unlimited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,,,,9056
+224,1,Spear Insurance Company Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Bermuda,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/bermuda.png,,,,61
+225,6,Pearson Vue Services Kenya Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Kenya,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/kenya.png,,,,299
+226,204,Obrizum Group Ltd.,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,2.76%,,,0
+227,6,Pearson Pakistan Services (Private) Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Pakistan,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/pakistan.png,,,,
+228,211,Minerva Education and Training Limited,https://dammzie.github.io/6095138353a8bf00040ff37a.png,United Kingdom,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/united-kingdom.png,10%,,,
+229,175,"LCCIEB Training Consultancy., Ltd",https://dammzie.github.io/6095138353a8bf00040ff37a.png,China,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/china.png,,,,
+230,6,Pearson Education SA,https://dammzie.github.io/6095138353a8bf00040ff37a.png,Argentina,https://raw.githubusercontent.com/dammzie/jistfile/main/countryflags/argentina.png,,,,
