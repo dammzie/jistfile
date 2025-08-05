@@ -1,0 +1,20 @@
+Task,Description,Start,End,Phase,Progress,Version
+Data collection & wrangling,"Gather mandate data from all banks, clean and unify formats, and prepare for processing.",07-Jul-25,08-Aug-25,Phase 1,50%,1
+Role logic definition,"Define rules for categorizing signers into primary, secondary, and others.",07-Jul-25,10-Jul-25,Phase 1,100%,1
+Dashboard & Mandates UI Build,"Develop the full stack (Backend and front-end view) for the dashboard and mandates page using Python, HTML/CSS/JS.",15-Jul-25,05-Aug-25,Phase 1,100%,1
+Stakeholder feedback & iteration,"Review feedback from Toan and others, make improvements to the dashboard and logic.",15-Jul-25,04-Aug-25,Phase 1,100%,1
+Finalize Phase 1,Wrap up and validate all Phase 1 deliverables before internship ends.,04-Aug-25,08-Aug-25,Phase 1,40%,1
+End of Internship,Completion of internship period.,22-Aug-25,22-Aug-25,Phase 1,0%,1
+Data Dictionary Integration,Get Data Dictionary for all mandates data from each of the banks in the scope. Integrate data dictionary for standardized field mappings across banks.,29-Sep-25,03-Oct-25,Phase 2,0%,1
+Begin Signers/Update/Role Based Access Modules,Start development of signer management and update functionality modules.,29-Sep-25,28-Nov-25,Phase 2,0%,1
+Testing & QA,Comprehensive testing of all modules and functionality.,08-Dec-25,12-Dec-25,Phase 3,0%,1
+User Training & Documentation,Create user guides and conduct training sessions for end users.,15-Dec-25,19-Dec-25,Phase 3,0%,1
+Final Deployment,Deploy the completed system to production environment.,22-Dec-25,31-Dec-25,Phase 3,0%,1
+Post-Deployment Support,Monitor system performance and provide initial support.,05-Jan-26,23-Jan-26,Phase 3,0%,1
+Begin Mail Automation/ Agent Modules,Start development of mail automation and AI Agent to populate forms/ letters,05-Jan-26,27-Feb-26,Phase 1,0%,2
+Email Automation Setup,Configure automated email notifications for mandate updates and alerts.,02-Feb-26,27-Feb-26,Phase 1,0%,2
+Testing & QA,Comprehensive testing of all modules and functionality.,02-Mar-26,06-Mar-26,Phase 2,0%,2
+User Training & Documentation,Create user guides and conduct training sessions for end users.,09-Mar-26,13-Mar-26,Phase 2,0%,2
+Final Deployment,Deploy the completed system to production environment.,17-Mar-26,31-Mar-26,Phase 2,0%,2
+Post-Deployment Support,Monitor system performance and provide initial support.,06-Apr-26,17-Apr-26,Phase 2,0%,2
+Project Closure,Final documentation and project handover.,20-Apr-26,30-Apr-26,Phase 2,0%,2
